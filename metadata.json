@@ -1,0 +1,6 @@
+{
+  "name": "QR Candidate Verify",
+  "description": "Scan QR codes to verify candidate credentials and view profiles.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
